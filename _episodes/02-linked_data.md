@@ -24,7 +24,7 @@ keypoints:
 
 ## 2.2 Concepts foundations (RDF and RDF triples)
 
- - The RDF is a conceptual data model, It is based on the idea of making statements about resources in expressions of the form (subject–predicate–object), known as triples.
+ - The RDF is a conceptual data model that is based on the idea of making statements about resources in expressions of the form (subject–predicate–object), known as triples.
  - The subject denotes the resource, and the predicate denotes traits or aspects of the resource, and expresses a relationship between the subject and the object.
  - RDF data are stored on containers known as triplestores.
 
@@ -38,7 +38,7 @@ keypoints:
 
 ## DISCUSSION: ##
 * There are already clashes with the previous module
-* Option 1 set focus or on the usage of it for librarians
+* Option 1: set focus or on the usage of it for librarians
 * Option 2: merge this completely into Module 1
 * Option 3: Put to the end (later module)
 
